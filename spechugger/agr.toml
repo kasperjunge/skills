@@ -1,0 +1,10 @@
+dependencies = [
+    { path = "skills/build-spec", type = "skill" },
+    { path = "skills/create-plan", type = "skill" },
+    { path = "skills/create-tasks", type = "skill" },
+    { path = "ralphs/implement-tasks", type = "ralph" },
+]
+
+[package]
+name = "spechugger"
+description = "Spec, plan, task, and Ralph implementation workflow for larger agent coding tasks."
