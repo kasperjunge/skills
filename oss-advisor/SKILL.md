@@ -1,5 +1,5 @@
 ---
-name: oss-growth-advisor
+name: oss-advisor
 description: >
   Analyze an open source repository, its positioning, market context, adoption signals,
   and surrounding ecosystem, then produce blunt, practical advice for a solo OSS creator
@@ -7,14 +7,14 @@ description: >
   and long-term success odds. Use this skill when the user wants to evaluate the growth
   potential of an OSS project, understand why a repo is or isn't getting traction, compare
   a repo against adjacent projects or competitors, get advice on positioning, launch
-  strategy, README rewriting, ecosystem design, plugin systems, monetization wrappers,
-  or growth loops, or asks things like "why isn't my repo taking off?", "how do I grow
-  my open source project?", "is this a good OSS bet?", or "should I launch this on HN?".
+  strategy, README rewriting, ecosystem design, plugin systems, or growth loops, or asks
+  things like "why isn't my repo taking off?", "how do I grow my open source project?",
+  "is this a good OSS bet?", or "should I launch this on HN?".
   Produces a concise, high-signal report with snapshot, strengths, bottlenecks, scores,
   rewritten positioning, top actions, and a 30-day playbook tailored to a solo creator.
 ---
 
-# OSS Growth Advisor
+# OSS Advisor
 
 Analyze an open source project as a solo-creator business and distribution system — not
 just as code — and produce blunt, execution-oriented advice to maximize the odds of
@@ -33,8 +33,8 @@ traction, buzz, adoption, contributor pull, and long-term success.
   platform — because the growth model differs.
 - Recommend narrowing when the project is too broad.
 - Recommend ecosystem design when the project already has a strong wedge.
-- Flag when the project is better suited to become a paid wrapper, hosted product, or
-  developer platform.
+- Keep advice focused on pure open source — do not recommend paid products, hosted
+  services, monetization, or commercialization paths.
 
 ## Inputs
 
@@ -51,7 +51,7 @@ only if the analysis would otherwise be guesswork.
 - target user persona
 - current traction metrics: stars, forks, contributors, issues, releases, downloads,
   website traffic, signups
-- creator goals: more users, more contributors, more buzz, monetization, better retention
+- creator goals: more users, more contributors, more buzz, better retention
 - competitor list
 - links to website, docs, Discord, X, Product Hunt, Hacker News, Reddit posts
 - launch history
@@ -161,7 +161,6 @@ Look for whether:
 
 Compare against:
 - direct OSS competitors
-- hosted commercial alternatives
 - adjacent workflows users may prefer
 - incumbent tools
 - trend timing and wave alignment
@@ -257,7 +256,6 @@ Rate each as Strong / OK / Weak with a one-line reason:
 - Ecosystem
 - Product quality
 - Defensibility
-- Monetization optionality
 
 ### 7. Highest-leverage actions
 Ordered list of 5 actions. For each:
@@ -282,11 +280,8 @@ Provide:
 
 ### 10. Optional growth paths
 Only include if relevant:
-- hosted version
-- paid wrapper
 - template marketplace
 - plugin ecosystem
-- consulting funnel
 - education/content moat
 - community moat
 
@@ -314,14 +309,6 @@ Also propose:
 - extension directory idea
 - community contribution ladder
 - examples/showcase structure
-
-### Extension D: Monetization advisor
-Also evaluate:
-- whether the project should remain pure OSS
-- hosted product viability
-- premium features
-- support/services
-- sponsorship fit
 
 ## Advice style
 
