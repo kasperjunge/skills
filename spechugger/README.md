@@ -19,7 +19,7 @@ The skills include small dependency-free helper scripts for mechanical work:
 ## Install
 
 ```bash
-agr add <owner>/<repo>/spechugger
+agr add kasperjunge/skills/spechugger
 ```
 
 ## Workflow
