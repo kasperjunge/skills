@@ -25,13 +25,13 @@ agr add kasperjunge/skills/spechugger
 ## Workflow
 
 ```text
-$build-spec <rough idea or ticket text>
-$create-plan specs/<owner>/<date-name>/spec.md
-$create-tasks specs/<owner>/<date-name>/plan.md
+/build-spec <rough idea or ticket text>
+/create-plan specs/<owner>/<date-name>/spec.md
+/create-tasks specs/<owner>/<date-name>/plan.md
 ```
 
 Then run the Ralph with the generated spec directory:
 
 ```bash
-ralph run .agents/ralphs/implement-tasks --spec-dir specs/<owner>/<date-name>
+ralph run implement-tasks --spec-dir specs/<owner>/<date-name>
 ```
