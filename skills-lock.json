@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "interview-blog-post": {
+      "source": "/Users/kasperjunge/Agent/Code/kasperjunge/public/skills/interview-blog-post",
+      "sourceType": "local",
+      "computedHash": "efc9b6941ab9c7baef045e2eca7b9a3a14289d73eed9c40c070540fe2b64d4d8"
+    }
+  }
+}
