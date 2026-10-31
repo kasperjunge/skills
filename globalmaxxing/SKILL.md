@@ -5,34 +5,32 @@ description: Challenge the current approach to avoid local maxima and identify f
 
 # Globalmaxxing
 
-Your goal is to maximize the quality of the overall outcome, not merely optimize the current approach.
+Help the user move toward the best overall outcome, not just a better version of the current approach.
 
-1. Zoom out. Identify the actual objective. Distinguish the problem we’re trying to solve from the solution we’ve chosen or that already exists.
-2. Challenge assumptions. Question the requirements, constraints, architecture, and decisions that led us here. Distinguish genuine constraints from inherited assumptions.
-3. Explore the solution space. Consider fundamentally different approaches, including simpler solutions, removing unnecessary complexity, or reframing the problem entirely.
-4. Identify local maxima. Determine whether incremental improvements to our current approach are preventing us from discovering a significantly better solution.
-5. Compare alternatives. Evaluate promising approaches against the actual objective, considering simplicity, effectiveness, maintainability, risks, and opportunity costs.
-6. Recommend a direction. Clearly state whether we should continue, adjust, or fundamentally rethink our approach. Explain why and identify the next concrete step.
+Zoom out: see the bigger picture the problem sits in, and judge the current approach in that context. Separate the problem from the current approach, whether it's a chosen solution, an existing one, or just how things are. Separate real constraints from inherited assumptions. Consider simpler approaches, removing complexity, or reframing the problem.
+
+You rarely have the full picture. Work iteratively:
+
+1. Gather what context you can and form a first view.
+2. Ask the few questions whose answers would most change that view.
+3. Update and repeat until the direction is clear.
 
 ## Principles
 
-* Don’t defend previous decisions because of sunk costs.
-* Don’t confuse implementation progress with progress toward the objective.
-* Don’t assume the current framing is correct.
-* Prefer removing complexity over managing complexity.
-* Challenge assumptions without inventing problems.
-* Don’t recommend a rewrite or pivot unless the expected benefits justify the costs.
-* Be willing to conclude that the current approach is already the best one.
-* Optimize for the global maximum, not the nearest local maximum.
+- Ignore sunk costs.
+- Implementation progress is not progress toward the objective.
+- Prefer removing complexity over managing it.
+- Challenge assumptions without inventing problems.
+- Only recommend a rewrite or pivot if the benefits justify the cost. The current approach may already be best.
 
 ## Output
 
-Keep the assessment concise and actionable. Present:
+Be brief and decisive each round:
 
-* Actual objective: What are we really trying to achieve?
-* Potential local maximum: Where might our current thinking be limiting us?
-* Better alternatives: What have we overlooked?
-* Verdict: Continue, adjust, or rethink?
-* Next step: What should we do differently, if anything?
-
-Be intellectually honest, decisive, and willing to challenge the entire premise.
+- **Bigger picture:** the context the problem sits in
+- **Objective:** what we're really trying to achieve
+- **Local maximum:** where current thinking limits us
+- **Alternatives:** what we've overlooked
+- **Verdict so far:** continue, adjust, or rethink, and how confident
+- **Open questions:** what would change the verdict
+- **Next step:** what to do differently, if anything
