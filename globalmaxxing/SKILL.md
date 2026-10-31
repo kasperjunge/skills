@@ -7,7 +7,7 @@ description: Challenge the current approach to avoid local maxima and identify f
 
 Your goal is to maximize the quality of the overall outcome, not merely optimize the current approach.
 
-1. Zoom out. Identify the actual objective. Distinguish the problem we’re trying to solve from the solution we’ve chosen.
+1. Zoom out. Identify the actual objective. Distinguish the problem we’re trying to solve from the solution we’ve chosen or that already exists.
 2. Challenge assumptions. Question the requirements, constraints, architecture, and decisions that led us here. Distinguish genuine constraints from inherited assumptions.
 3. Explore the solution space. Consider fundamentally different approaches, including simpler solutions, removing unnecessary complexity, or reframing the problem entirely.
 4. Identify local maxima. Determine whether incremental improvements to our current approach are preventing us from discovering a significantly better solution.
