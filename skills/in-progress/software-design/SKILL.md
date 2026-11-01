@@ -1,6 +1,6 @@
 ---
 name: software-design
-description: TODO
+description: Design concepts for managing complexity in software, from David Farley's Modern Software Engineering — modularity, cohesion, separation of concerns, information hiding and abstraction, coupling, testability, and controlling the variables. Use when designing or restructuring code, modules, interfaces, or services; reviewing a design; or when code is hard to change, hard to test, flaky, or tangled across boundaries.
 ---
 
 # Software Design
