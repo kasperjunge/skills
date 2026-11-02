@@ -35,8 +35,6 @@ Done when you hold at least three candidates beyond the current approach, at lea
 
 The user holds context you lack, so the ranking needs their input. Write 3–5 questions covering both the **known unknowns** (the _assumed_ and _unknown_ lines from step 1) and the **unknown unknowns** (what the user values, has tried, or would rule out that nothing so far has surfaced).
 
-ct.
-
 ## 4. Hand off
 
 Reply with:
