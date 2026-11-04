@@ -17,3 +17,4 @@ These concepts help you craft and judge strategy. They are drawn from Richard Ru
 | [Proximate objectives](references/proximate-objectives.md) | Setting near-term targets, or objectives are aspirational or out of reach. |
 | [Sources of power](references/sources-of-power.md) | Looking for the leverage or advantage that makes a policy work. |
 | [Bad strategy](references/bad-strategy.md) | Reviewing a strategy, or testing a draft for fluff, goals, and wish lists. |
+| [Strategy record](record/structure.md) | Writing down, extending, or updating the strategy in a durable record. |

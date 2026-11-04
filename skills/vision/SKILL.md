@@ -18,3 +18,4 @@ A vision is not a strategy. It sets the long-term direction; a strategy tackles 
 | [BHAG](references/bhag.md) | Setting a long-term goal, or the vision lacks a clear, bold target. |
 | [Vivid description](references/vivid-description.md) | Making the envisioned future concrete and engaging. |
 | [Bad vision](references/bad-vision.md) | Reviewing a vision for slogans, confusion of core and non-core, or vision posing as strategy. |
+| [Vision record](record/structure.md) | Writing down, extending, or updating the vision in a durable record. |

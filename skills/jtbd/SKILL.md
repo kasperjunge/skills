@@ -18,3 +18,4 @@ These concepts explain why people buy and switch products. They are drawn from C
 | [The buying timeline](references/timeline.md) | Mapping how a customer moves from first struggle to purchase and use. |
 | [Switch interviews](references/switch-interview.md) | Planning or running customer interviews to uncover jobs. |
 | [Organizing around jobs](references/organizing-around-jobs.md) | Using jobs to shape a product, its experience, messaging, or team structure. |
+| [Jobs record](record/structure.md) | Writing down, extending, or updating jobs and interviews in a durable record. |

@@ -19,3 +19,4 @@ The flywheel is an architecture of momentum, not a strategy on its own. It works
 | [Hedgehog Concept](references/hedgehog-concept.md) | Grounding the flywheel in what you can be best at, or the components feel arbitrary. |
 | [Extending the flywheel](references/extending-the-flywheel.md) | Growing, diversifying, renewing, or deciding whether to change direction. |
 | [Bad flywheels](references/bad-flywheels.md) | Reviewing a draft flywheel, or diagnosing a doom loop. |
+| [Flywheel record](record/structure.md) | Writing down, extending, or updating the flywheel in a durable record. |

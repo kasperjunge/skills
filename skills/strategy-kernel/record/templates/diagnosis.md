@@ -1,0 +1,5 @@
+# Diagnosis
+
+## Situation
+
+## Crux
