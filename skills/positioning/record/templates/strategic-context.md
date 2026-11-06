@@ -1,0 +1,3 @@
+## Strategic Context
+
+- [Positioning](<location>)
