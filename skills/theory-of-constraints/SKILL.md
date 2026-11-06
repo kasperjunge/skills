@@ -9,8 +9,6 @@ These concepts help you improve a system as a whole rather than part by part. Th
 
 Constraints are not always machines or people. Often they are **policies**: rules, measures, and habits that made sense once and now limit the system. The thinking processes exist to find and remove those.
 
-Theory of Constraints works with the `strategy-kernel` skill: the constraint is often the crux of a diagnosis, and the five focusing steps give coherent actions. It explains why a `flywheel` stalls at its weakest component, and it is a lens for the `software-design` skill when a delivery pipeline, not the code, limits flow.
-
 ## Table of contents
 
 | Concept | Read when |

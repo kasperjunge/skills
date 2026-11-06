@@ -9,8 +9,6 @@ These concepts help you decide how a product is positioned and check whether tha
 
 Positioning has five components plus one optional layer: **competitive alternatives**, **unique attributes**, **value** (and proof), **best-fit customers**, and **market category**, with an optional **relevant trend**. The order matters: each component is derived from the one before it. Messaging, sales pitches, pricing, and launch plans all build on positioning, so position first.
 
-Positioning works with the `jtbd` skill. Competitive alternatives are what customers would hire instead, and best-fit customers are the ones whose circumstance makes the job urgent. It is part of how a strategy creates advantage in the sense of the `strategy-kernel` skill.
-
 ## Table of contents
 
 | Concept | Read when |

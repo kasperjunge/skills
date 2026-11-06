@@ -4,7 +4,7 @@ In *Sales Pitch*, Dunford turns positioning into a sales narrative. The pitch is
 
 ## Why buyers don't buy
 
-Most lost deals are lost to **no decision**, not to a competitor. Buyers are afraid of making the wrong choice. A good pitch reduces that fear by making the decision feel clear and safe. This matches the anxiety and habit forces in the `jtbd` skill.
+Most lost deals are lost to **no decision**, not to a competitor. Buyers are afraid of making the wrong choice. A good pitch reduces that fear by making the decision feel clear and safe.
 
 ## Pitch structure
 

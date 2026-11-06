@@ -10,8 +10,6 @@ What customers would do if your product didn't exist. This is the real competiti
 - Group alternatives by type, not by brand.
 - Include doing nothing. It is often the strongest alternative.
 
-This is the hiring-and-firing view from the `jtbd` skill: the alternatives are what customers hire for the same job.
-
 ## 2. Unique attributes
 
 What you have that the alternatives don't. Attributes are capabilities and features, but also delivery model, expertise, business model, or anything else that differs.
@@ -34,8 +32,6 @@ Who cares a lot about that value. Not everyone who could buy, but the customers 
 - Describe them by **characteristics** that make them care: a situation, a constraint, a trigger, a size, a team structure. Demographics alone don't help.
 - Ask: what does this customer have that makes our value unusually important to them?
 - The target should be narrow enough that marketing and sales can find these customers.
-
-In `jtbd` terms, best-fit customers are the ones whose circumstance makes the job urgent and the push of the situation strong.
 
 ## 5. Market category
 
