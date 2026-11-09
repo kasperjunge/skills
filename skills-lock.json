@@ -1,4 +1,10 @@
 {
   "version": 1,
-  "skills": {}
+  "skills": {
+    "icp": {
+      "source": "./skills",
+      "sourceType": "local",
+      "computedHash": "5ca15855e68a74449a4dd9fced58e840a4c2bdfe53067e2bfebc317cda8fe646"
+    }
+  }
 }

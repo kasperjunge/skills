@@ -31,6 +31,7 @@ Most skills here give the agent a well-known concept to reason with, such as Job
 
 ### Product
 
+- **[icp](./skills/icp/SKILL.md)**: Ideal Customer Profile. Use it to identify best-fit customers, choose target segments, and turn customer evidence into qualification criteria.
 - **[jtbd](./skills/jtbd/SKILL.md)**: Jobs To Be Done, from Clayton Christensen and Bob Moesta. Use it to reason about why customers buy, switch, or stop using a product.
 - **[positioning](./skills/positioning/SKILL.md)**: product positioning, from April Dunford's *Obviously Awesome* and *Sales Pitch*. Use it to decide how a product is positioned, which market category to compete in, and what messaging and sales narratives should build on.
 
