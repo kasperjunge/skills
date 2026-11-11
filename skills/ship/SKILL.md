@@ -5,3 +5,5 @@ disable-model-invocation: true
 ---
 
 Commit the changes as atomic commits, one logical change per commit, and push them to trunk, the repository's main branch. Before pushing, run the repository's checks and tests and fix any failures. After pushing, watch CI and fix any failures until it passes.
+
+In a git worktree, rebase onto the latest trunk before running checks, and after pushing fast-forward the main checkout to trunk.
