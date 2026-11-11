@@ -45,6 +45,7 @@ Most skills here give the agent a well-known concept to reason with, such as Job
 
 ### Engineering
 
+- **[the-algorithm](./skills/the-algorithm/SKILL.md)**: Elon Musk's five-step process: question requirements, delete, simplify, accelerate, then automate. Use it to challenge unnecessary work before optimizing or automating it.
 - **[software-design](./skills/software-design/SKILL.md)**: concepts for managing complexity, from David Farley's *Modern Software Engineering*. Use it when designing or restructuring code, or when code is hard to change or test.
 - **[gherkin](./skills/gherkin/SKILL.md)**: Gherkin and Behaviour-Driven Development, from the Cucumber reference and *The BDD Books*. Use it to write or review `.feature` files and acceptance criteria. Includes a validator script.
 - **[ship](./skills/ship/SKILL.md)**: make atomic commits, push them to trunk, and watch CI until it passes. Runs only when invoked explicitly.
