@@ -20,4 +20,4 @@ OKRs measure progress; they are not the strategy. Set them after the strategy is
 | [Stretch](references/stretch.md) | Setting ambition, or choosing between committed and aspirational OKRs. |
 | [CFRs](references/cfrs.md) | Linking OKRs to people management, performance reviews, pay, or culture. |
 | [Bad OKRs](references/bad-okrs.md) | Reviewing a draft set of OKRs for common traps. |
-| [OKR record](record/structure.md) | Writing down, extending, or updating OKRs in a durable record. |
+| [OKR format](record/format.md) | Writing down or updating OKRs in a file. It defines the file format, the template, and the check script. |
