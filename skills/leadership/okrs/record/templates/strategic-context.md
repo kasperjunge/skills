@@ -1,3 +1,0 @@
-## Strategic Context
-
-- [OKRs](<location>)
